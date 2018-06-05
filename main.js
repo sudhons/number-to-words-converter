@@ -42,7 +42,7 @@ const toWords = (str) => {
     let result = '';
     let formattedNumber = '';
 
-    let bigNumbers = ["", " Thousand", " Million", " Billion", " Trillion", " Quadrillion", " Quintillion", " Sextillion", " Septdecillion",
+    let bigNumbers = ["", " Thousand", " Million", " Billion", " Trillion", " Quadrillion", " Quintillion", " Sextillion", " Septillion",
         " Octillion", " Nonillion", " Decillion", " Undecillion", " Duodecillion", " Trecillion", " Quattuordecillion", " Quindecillion",
         " Sexdecillion", " Septdecillion", " Octodecillion", " Novendecillion", " Vigindecillion"];
 
